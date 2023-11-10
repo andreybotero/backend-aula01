@@ -1,0 +1,17 @@
+{
+  "name": "backend-aula01",
+  "version": "1.0.0",
+  "description": "Aula 01 de backend",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs",
+    "Javascript",
+    "Senai",
+    "TDS01"
+  ],
+  "author": "Andrey Botero",
+  "license": "ISC"
+}
